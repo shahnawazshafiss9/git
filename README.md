@@ -12,6 +12,7 @@ rm -rf .git*
 9. git push
 10. git push --set-upstream origin master
 11 . git status
+12. git remote show origin
 ----------------------------------------------------
 
 
