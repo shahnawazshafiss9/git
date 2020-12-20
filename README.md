@@ -13,6 +13,47 @@ rm -rf .git*
 10. git push --set-upstream origin master
 11 . git status
 12. git remote show origin
-----------------------------------------------------
+13. git log
+14. git branch
+	
+	Create new branch
+15. git checkout -b new-feature
+16. git branch
+Add something coding
+17. git master
+18 git merge new-feature
+19. git branch -D new-feature
+20. git branch
+	Again create new branch
+21. git checkout -b new-feature
+	Changes in files somehing
+22. git add.
+23. git commit -m "add goodbye"
+24. git master
+	Changes somethings in files
+25. git add.
+26. git commit -m "added aby"
+27. git merge new-feture
+	If confilect to branch delete one
+28. git add.
+29.git commit -m "merge resolve"
 
+	
+
+**If change of files to add command  git add.
+** git commit -m "save again"
+
+
+If I want to see previous changes
+**git checkout git ID
+This command remove current changes.
+
+If change current commit 
+**git master 
+
+If want to last commit ID change
+**git reset --hard git ID
+
+If want to revered
+*git checkout --.
 
