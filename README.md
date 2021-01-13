@@ -59,4 +59,4 @@ If want to revered
 
 if want to fetch remote branch
 
-git fetch && git checkout branch_name
+**git fetch && git checkout branch_name
