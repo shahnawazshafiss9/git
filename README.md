@@ -57,3 +57,5 @@ If want to last commit ID change
 If want to revered
 *git checkout --.
 
+if want to fetch remote branch
+git fetch && git checkout branch_name
