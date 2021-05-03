@@ -1,12 +1,3 @@
-## test only
-
-```javascript
-	<Directory /var/www/>  
-	Options Indexes FollowSymLinks  
-	AllowOverride All  
-	Require all granted  
-	</Directory>
-```
 
 First remove
 rm -rf .git*
