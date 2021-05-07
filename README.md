@@ -38,7 +38,7 @@ Add something coding
 	If confilect to branch delete one
 28. git add.
 29.git commit -m "merge resolve"
-
+30. git branch -a 	see all branch
 	
 
 **If change of files to add command  git add.
@@ -61,3 +61,4 @@ If want to revered
 if want to fetch remote branch
 
 **git fetch && git checkout branch_name
+
