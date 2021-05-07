@@ -21,7 +21,7 @@ rm -rf .git*
 15. git checkout -b new-feature
 16. git branch
 Add something coding
-17. git master
+17. git master	
 18 git merge new-feature
 19. git branch -D new-feature
 20. git branch
