@@ -36,9 +36,9 @@ Add something coding
 26. git commit -m "added aby"
 27. git merge new-feture
 	If confilect to branch delete one
-28. git add.
-29.git commit -m "merge resolve"
-30. git branch -a 	see all branch
+28. git add.	
+30.git commit -m "merge resolve"
+31. git branch -a 	see all branch
 	
 
 **If change of files to add command  git add.
